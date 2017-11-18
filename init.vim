@@ -1,1 +1,1 @@
-/Users/bryanfinlayson/.vimrc
+/Users/bryanfinlayson/nvim-config/.vimrc
